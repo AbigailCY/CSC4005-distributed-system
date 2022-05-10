@@ -1,0 +1,165 @@
+Name: Chen Yuan
+Student ID: 117010038
+Assignment 2, Mandelbrot Set Computation, MPI static implementation.
+
+Display size: 200,200
+MPI static: Number of processes: 2; Displaywidth: 200; Runtime: 0.009994
+
+MPI static: Number of processes: 3; Displaywidth: 200; Runtime: 0.005972
+
+MPI static: Number of processes: 4; Displaywidth: 200; Runtime: 0.009797
+
+MPI static: Number of processes: 5; Displaywidth: 200; Runtime: 0.012150
+
+MPI static: Number of processes: 6; Displaywidth: 200; Runtime: 0.013021
+
+MPI static: Number of processes: 7; Displaywidth: 200; Runtime: 0.013191
+
+MPI static: Number of processes: 8; Displaywidth: 200; Runtime: 0.032597
+
+MPI static: Number of processes: 9; Displaywidth: 200; Runtime: 0.012292
+
+MPI static: Number of processes: 10; Displaywidth: 200; Runtime: 0.007239
+
+MPI static: Number of processes: 11; Displaywidth: 200; Runtime: 0.001650
+
+MPI static: Number of processes: 12; Displaywidth: 200; Runtime: 0.013948
+
+MPI static: Number of processes: 13; Displaywidth: 200; Runtime: 0.010946
+
+MPI static: Number of processes: 14; Displaywidth: 200; Runtime: 0.011300
+
+MPI static: Number of processes: 15; Displaywidth: 200; Runtime: 0.008284
+
+MPI static: Number of processes: 16; Displaywidth: 200; Runtime: 0.018403
+
+MPI static: Number of processes: 17; Displaywidth: 200; Runtime: 0.012028
+
+MPI static: Number of processes: 2; Displaywidth: 800; Runtime: 0.132238
+
+MPI static: Number of processes: 3; Displaywidth: 800; Runtime: 0.052527
+
+MPI static: Number of processes: 4; Displaywidth: 800; Runtime: 0.105010
+
+MPI static: Number of processes: 5; Displaywidth: 800; Runtime: 0.054881
+
+MPI static: Number of processes: 6; Displaywidth: 800; Runtime: 0.135000
+
+MPI static: Number of processes: 7; Displaywidth: 800; Runtime: 0.122261
+
+MPI static: Number of processes: 8; Displaywidth: 800; Runtime: 0.065390
+
+MPI static: Number of processes: 9; Displaywidth: 800; Runtime: 0.094794
+
+MPI static: Number of processes: 10; Displaywidth: 800; Runtime: 0.076946
+
+MPI static: Number of processes: 11; Displaywidth: 800; Runtime: 0.069139
+
+MPI static: Number of processes: 12; Displaywidth: 800; Runtime: 0.102701
+
+MPI static: Number of processes: 13; Displaywidth: 800; Runtime: 0.048214
+
+MPI static: Number of processes: 14; Displaywidth: 800; Runtime: 0.059454
+
+MPI static: Number of processes: 15; Displaywidth: 800; Runtime: 0.068089
+
+MPI static: Number of processes: 16; Displaywidth: 800; Runtime: 0.065173
+
+MPI static: Number of processes: 17; Displaywidth: 800; Runtime: 0.043163
+
+MPI static: Number of processes: 2; Displaywidth: 2000; Runtime: 0.666469
+
+MPI static: Number of processes: 3; Displaywidth: 2000; Runtime: 0.286994
+
+MPI static: Number of processes: 4; Displaywidth: 2000; Runtime: 0.438388
+
+MPI static: Number of processes: 5; Displaywidth: 2000; Runtime: 0.394246
+
+MPI static: Number of processes: 6; Displaywidth: 2000; Runtime: 0.434742
+
+MPI static: Number of processes: 7; Displaywidth: 2000; Runtime: 0.477381
+
+MPI static: Number of processes: 8; Displaywidth: 2000; Runtime: 0.613800
+
+MPI static: Number of processes: 9; Displaywidth: 2000; Runtime: 0.314393
+
+MPI static: Number of processes: 10; Displaywidth: 2000; Runtime: 0.310271
+
+MPI static: Number of processes: 11; Displaywidth: 2000; Runtime: 0.308739
+
+MPI static: Number of processes: 12; Displaywidth: 2000; Runtime: 0.311882
+
+MPI static: Number of processes: 13; Displaywidth: 2000; Runtime: 0.337130
+
+MPI static: Number of processes: 14; Displaywidth: 2000; Runtime: 0.331017
+
+MPI static: Number of processes: 15; Displaywidth: 2000; Runtime: 0.301032
+
+MPI static: Number of processes: 16; Displaywidth: 2000; Runtime: 0.305920
+
+MPI static: Number of processes: 17; Displaywidth: 2000; Runtime: 0.183916
+
+MPI static: Number of processes: 2; Displaywidth: 6400; Runtime: 6.448585
+
+MPI static: Number of processes: 3; Displaywidth: 6400; Runtime: 2.900772
+
+MPI static: Number of processes: 4; Displaywidth: 6400; Runtime: 4.329019
+
+MPI static: Number of processes: 5; Displaywidth: 6400; Runtime: 3.082160
+
+MPI static: Number of processes: 6; Displaywidth: 6400; Runtime: 4.346443
+
+MPI static: Number of processes: 7; Displaywidth: 6400; Runtime: 3.137100
+
+MPI static: Number of processes: 8; Displaywidth: 6400; Runtime: 3.525920
+
+MPI static: Number of processes: 9; Displaywidth: 6400; Runtime: 3.187312
+
+MPI static: Number of processes: 10; Displaywidth: 6400; Runtime: 2.650198
+
+MPI static: Number of processes: 11; Displaywidth: 6400; Runtime: 2.376791
+
+MPI static: Number of processes: 12; Displaywidth: 6400; Runtime: 2.528885
+
+MPI static: Number of processes: 13; Displaywidth: 6400; Runtime: 2.299599
+
+MPI static: Number of processes: 14; Displaywidth: 6400; Runtime: 2.576420
+
+MPI static: Number of processes: 15; Displaywidth: 6400; Runtime: 2.344700
+
+MPI static: Number of processes: 16; Displaywidth: 6400; Runtime: 2.445872
+
+MPI static: Number of processes: 17; Displaywidth: 6400; Runtime: 2.188648
+
+MPI static: Number of processes: 2; Displaywidth: 10000; Runtime: 14.539869
+
+MPI static: Number of processes: 3; Displaywidth: 10000; Runtime: 7.383017
+
+MPI static: Number of processes: 4; Displaywidth: 10000; Runtime: 11.311624
+
+MPI static: Number of processes: 5; Displaywidth: 10000; Runtime: 7.802754
+
+MPI static: Number of processes: 6; Displaywidth: 10000; Runtime: 9.762183
+
+MPI static: Number of processes: 7; Displaywidth: 10000; Runtime: 8.317807
+
+MPI static: Number of processes: 8; Displaywidth: 10000; Runtime: 8.488373
+
+MPI static: Number of processes: 9; Displaywidth: 10000; Runtime: 7.364296
+
+MPI static: Number of processes: 10; Displaywidth: 10000; Runtime: 6.291080
+
+MPI static: Number of processes: 11; Displaywidth: 10000; Runtime: 6.178463
+
+MPI static: Number of processes: 12; Displaywidth: 10000; Runtime: 5.537992
+
+MPI static: Number of processes: 13; Displaywidth: 10000; Runtime: 5.575092
+
+MPI static: Number of processes: 14; Displaywidth: 10000; Runtime: 5.492225
+
+MPI static: Number of processes: 15; Displaywidth: 10000; Runtime: 5.050085
+
+MPI static: Number of processes: 16; Displaywidth: 10000; Runtime: 4.844121
+
+MPI static: Number of processes: 17; Displaywidth: 10000; Runtime: 4.846664
+

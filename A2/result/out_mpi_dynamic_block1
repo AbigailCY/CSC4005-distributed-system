@@ -1,0 +1,163 @@
+Name: Chen Yuan
+Student ID: 117010038
+Assignment 2, Mandelbrot Set Computation, MPI dynamic implementation.
+
+MPI dynamic: Number of processes: 2; Display width: 200; Blocksize: 1; Runtime: 0.011345
+
+MPI dynamic: Number of processes: 3; Display width: 200; Blocksize: 1; Runtime: 0.004605
+
+MPI dynamic: Number of processes: 4; Display width: 200; Blocksize: 1; Runtime: 0.003302
+
+MPI dynamic: Number of processes: 5; Display width: 200; Blocksize: 1; Runtime: 0.013395
+
+MPI dynamic: Number of processes: 6; Display width: 200; Blocksize: 1; Runtime: 0.016076
+
+MPI dynamic: Number of processes: 7; Display width: 200; Blocksize: 1; Runtime: 0.011315
+
+MPI dynamic: Number of processes: 8; Display width: 200; Blocksize: 1; Runtime: 0.048444
+
+MPI dynamic: Number of processes: 9; Display width: 200; Blocksize: 1; Runtime: 0.021049
+
+MPI dynamic: Number of processes: 10; Display width: 200; Blocksize: 1; Runtime: 0.036720
+
+MPI dynamic: Number of processes: 11; Display width: 200; Blocksize: 1; Runtime: 0.036824
+
+MPI dynamic: Number of processes: 12; Display width: 200; Blocksize: 1; Runtime: 0.057153
+
+MPI dynamic: Number of processes: 13; Display width: 200; Blocksize: 1; Runtime: 0.028273
+
+MPI dynamic: Number of processes: 14; Display width: 200; Blocksize: 1; Runtime: 0.035345
+
+MPI dynamic: Number of processes: 15; Display width: 200; Blocksize: 1; Runtime: 0.065686
+
+MPI dynamic: Number of processes: 16; Display width: 200; Blocksize: 1; Runtime: 0.088384
+
+MPI dynamic: Number of processes: 17; Display width: 200; Blocksize: 1; Runtime: 0.063550
+
+MPI dynamic: Number of processes: 2; Display width: 800; Blocksize: 1; Runtime: 0.100521
+
+MPI dynamic: Number of processes: 3; Display width: 800; Blocksize: 1; Runtime: 0.050878
+
+MPI dynamic: Number of processes: 4; Display width: 800; Blocksize: 1; Runtime: 0.035881
+
+MPI dynamic: Number of processes: 5; Display width: 800; Blocksize: 1; Runtime: 0.069358
+
+MPI dynamic: Number of processes: 6; Display width: 800; Blocksize: 1; Runtime: 0.087900
+
+MPI dynamic: Number of processes: 7; Display width: 800; Blocksize: 1; Runtime: 0.133429
+
+MPI dynamic: Number of processes: 8; Display width: 800; Blocksize: 1; Runtime: 0.089030
+
+MPI dynamic: Number of processes: 9; Display width: 800; Blocksize: 1; Runtime: 0.128318
+
+MPI dynamic: Number of processes: 10; Display width: 800; Blocksize: 1; Runtime: 0.065019
+
+MPI dynamic: Number of processes: 11; Display width: 800; Blocksize: 1; Runtime: 0.044865
+
+MPI dynamic: Number of processes: 12; Display width: 800; Blocksize: 1; Runtime: 0.086012
+
+MPI dynamic: Number of processes: 13; Display width: 800; Blocksize: 1; Runtime: 0.089318
+
+MPI dynamic: Number of processes: 14; Display width: 800; Blocksize: 1; Runtime: 0.137762
+
+MPI dynamic: Number of processes: 15; Display width: 800; Blocksize: 1; Runtime: 0.056609
+
+MPI dynamic: Number of processes: 16; Display width: 800; Blocksize: 1; Runtime: 0.170186
+
+MPI dynamic: Number of processes: 17; Display width: 800; Blocksize: 1; Runtime: 0.100683
+
+MPI dynamic: Number of processes: 2; Display width: 2000; Blocksize: 1; Runtime: 0.599424
+
+MPI dynamic: Number of processes: 3; Display width: 2000; Blocksize: 1; Runtime: 0.285109
+
+MPI dynamic: Number of processes: 4; Display width: 2000; Blocksize: 1; Runtime: 0.197465
+
+MPI dynamic: Number of processes: 5; Display width: 2000; Blocksize: 1; Runtime: 0.358072
+
+MPI dynamic: Number of processes: 6; Display width: 2000; Blocksize: 1; Runtime: 0.423820
+
+MPI dynamic: Number of processes: 7; Display width: 2000; Blocksize: 1; Runtime: 0.377192
+
+MPI dynamic: Number of processes: 8; Display width: 2000; Blocksize: 1; Runtime: 0.289423
+
+MPI dynamic: Number of processes: 9; Display width: 2000; Blocksize: 1; Runtime: 0.224985
+
+MPI dynamic: Number of processes: 10; Display width: 2000; Blocksize: 1; Runtime: 0.143607
+
+MPI dynamic: Number of processes: 11; Display width: 2000; Blocksize: 1; Runtime: 0.429384
+
+MPI dynamic: Number of processes: 12; Display width: 2000; Blocksize: 1; Runtime: 0.256409
+
+MPI dynamic: Number of processes: 13; Display width: 2000; Blocksize: 1; Runtime: 0.164263
+
+MPI dynamic: Number of processes: 14; Display width: 2000; Blocksize: 1; Runtime: 0.193101
+
+MPI dynamic: Number of processes: 15; Display width: 2000; Blocksize: 1; Runtime: 0.333242
+
+MPI dynamic: Number of processes: 16; Display width: 2000; Blocksize: 1; Runtime: 0.232426
+
+MPI dynamic: Number of processes: 17; Display width: 2000; Blocksize: 1; Runtime: 0.321198
+
+MPI dynamic: Number of processes: 2; Display width: 6400; Blocksize: 1; Runtime: 5.661318
+
+MPI dynamic: Number of processes: 3; Display width: 6400; Blocksize: 1; Runtime: 2.651590
+
+MPI dynamic: Number of processes: 4; Display width: 6400; Blocksize: 1; Runtime: 1.800524
+
+MPI dynamic: Number of processes: 5; Display width: 6400; Blocksize: 1; Runtime: 2.017414
+
+MPI dynamic: Number of processes: 6; Display width: 6400; Blocksize: 1; Runtime: 1.882220
+
+MPI dynamic: Number of processes: 7; Display width: 6400; Blocksize: 1; Runtime: 1.991704
+
+MPI dynamic: Number of processes: 8; Display width: 6400; Blocksize: 1; Runtime: 1.701199
+
+MPI dynamic: Number of processes: 9; Display width: 6400; Blocksize: 1; Runtime: 1.416693
+
+MPI dynamic: Number of processes: 10; Display width: 6400; Blocksize: 1; Runtime: 1.604000
+
+MPI dynamic: Number of processes: 11; Display width: 6400; Blocksize: 1; Runtime: 1.476527
+
+MPI dynamic: Number of processes: 12; Display width: 6400; Blocksize: 1; Runtime: 1.469275
+
+MPI dynamic: Number of processes: 13; Display width: 6400; Blocksize: 1; Runtime: 1.348769
+
+MPI dynamic: Number of processes: 14; Display width: 6400; Blocksize: 1; Runtime: 1.360831
+
+MPI dynamic: Number of processes: 15; Display width: 6400; Blocksize: 1; Runtime: 1.077034
+
+MPI dynamic: Number of processes: 16; Display width: 6400; Blocksize: 1; Runtime: 1.190445
+
+MPI dynamic: Number of processes: 17; Display width: 6400; Blocksize: 1; Runtime: 1.033676
+
+MPI dynamic: Number of processes: 2; Display width: 10000; Blocksize: 1; Runtime: 12.860029
+
+MPI dynamic: Number of processes: 3; Display width: 10000; Blocksize: 1; Runtime: 6.590887
+
+MPI dynamic: Number of processes: 4; Display width: 10000; Blocksize: 1; Runtime: 4.324779
+
+MPI dynamic: Number of processes: 5; Display width: 10000; Blocksize: 1; Runtime: 4.818056
+
+MPI dynamic: Number of processes: 6; Display width: 10000; Blocksize: 1; Runtime: 4.948479
+
+MPI dynamic: Number of processes: 7; Display width: 10000; Blocksize: 1; Runtime: 4.093123
+
+MPI dynamic: Number of processes: 8; Display width: 10000; Blocksize: 1; Runtime: 4.096013
+
+MPI dynamic: Number of processes: 9; Display width: 10000; Blocksize: 1; Runtime: 3.545253
+
+MPI dynamic: Number of processes: 10; Display width: 10000; Blocksize: 1; Runtime: 3.356293
+
+MPI dynamic: Number of processes: 11; Display width: 10000; Blocksize: 1; Runtime: 3.246614
+
+MPI dynamic: Number of processes: 12; Display width: 10000; Blocksize: 1; Runtime: 3.069335
+
+MPI dynamic: Number of processes: 13; Display width: 10000; Blocksize: 1; Runtime: 2.839568
+
+MPI dynamic: Number of processes: 14; Display width: 10000; Blocksize: 1; Runtime: 2.576793
+
+MPI dynamic: Number of processes: 15; Display width: 10000; Blocksize: 1; Runtime: 2.342247
+
+MPI dynamic: Number of processes: 16; Display width: 10000; Blocksize: 1; Runtime: 2.673183
+
+

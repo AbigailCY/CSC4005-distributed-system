@@ -1,0 +1,99 @@
+Name: Chen Yuan
+Student ID: 117010038
+Assignment 3, N Body, Pthread implementation.
+
+Pthread: Threads: 1; Body numbers: 200; Runtime: 0.985861
+
+Pthread: Threads: 2; Body numbers: 200; Runtime: 0.520763
+
+Pthread: Threads: 3; Body numbers: 200; Runtime: 0.364876
+
+Pthread: Threads: 4; Body numbers: 200; Runtime: 0.283343
+
+Pthread: Threads: 5; Body numbers: 200; Runtime: 0.266426
+
+Pthread: Threads: 6; Body numbers: 200; Runtime: 0.296910
+
+Pthread: Threads: 7; Body numbers: 200; Runtime: 0.276981
+
+Pthread: Threads: 8; Body numbers: 200; Runtime: 0.238112
+
+Pthread: Threads: 9; Body numbers: 200; Runtime: 0.235407
+
+Pthread: Threads: 10; Body numbers: 200; Runtime: 0.214270
+
+Pthread: Threads: 11; Body numbers: 200; Runtime: 0.241777
+
+Pthread: Threads: 12; Body numbers: 200; Runtime: 0.329304
+
+Pthread: Threads: 13; Body numbers: 200; Runtime: 0.272093
+
+Pthread: Threads: 14; Body numbers: 200; Runtime: 0.252140
+
+Pthread: Threads: 15; Body numbers: 200; Runtime: 0.272928
+
+Pthread: Threads: 16; Body numbers: 200; Runtime: 0.235579
+
+Pthread: Threads: 1; Body numbers: 800; Runtime: 12.539052
+
+Pthread: Threads: 2; Body numbers: 800; Runtime: 9.109330
+
+Pthread: Threads: 3; Body numbers: 800; Runtime: 5.981041
+
+Pthread: Threads: 4; Body numbers: 800; Runtime: 3.631627
+
+Pthread: Threads: 5; Body numbers: 800; Runtime: 3.834326
+
+Pthread: Threads: 6; Body numbers: 800; Runtime: 3.480158
+
+Pthread: Threads: 7; Body numbers: 800; Runtime: 4.209206
+
+Pthread: Threads: 8; Body numbers: 800; Runtime: 3.575934
+
+Pthread: Threads: 9; Body numbers: 800; Runtime: 3.530979
+
+Pthread: Threads: 10; Body numbers: 800; Runtime: 3.540234
+
+Pthread: Threads: 11; Body numbers: 800; Runtime: 3.612545
+
+Pthread: Threads: 12; Body numbers: 800; Runtime: 3.772622
+
+Pthread: Threads: 13; Body numbers: 800; Runtime: 3.779878
+
+Pthread: Threads: 14; Body numbers: 800; Runtime: 3.756934
+
+Pthread: Threads: 15; Body numbers: 800; Runtime: 3.531009
+
+Pthread: Threads: 16; Body numbers: 800; Runtime: 3.588503
+
+Pthread: Threads: 1; Body numbers: 2000; Runtime: 79.832765
+
+Pthread: Threads: 2; Body numbers: 2000; Runtime: 45.235368
+
+Pthread: Threads: 3; Body numbers: 2000; Runtime: 30.612303
+
+Pthread: Threads: 4; Body numbers: 2000; Runtime: 27.442174
+
+Pthread: Threads: 5; Body numbers: 2000; Runtime: 19.628741
+
+Pthread: Threads: 6; Body numbers: 2000; Runtime: 24.450994
+
+Pthread: Threads: 7; Body numbers: 2000; Runtime: 21.567434
+
+Pthread: Threads: 8; Body numbers: 2000; Runtime: 18.564389
+
+Pthread: Threads: 9; Body numbers: 2000; Runtime: 18.669040
+
+Pthread: Threads: 10; Body numbers: 2000; Runtime: 17.504606
+
+Pthread: Threads: 11; Body numbers: 2000; Runtime: 17.481044
+
+Pthread: Threads: 12; Body numbers: 2000; Runtime: 17.060767
+
+Pthread: Threads: 13; Body numbers: 2000; Runtime: 41.194030
+
+Pthread: Threads: 14; Body numbers: 2000; Runtime: 23.708122
+
+Pthread: Threads: 15; Body numbers: 2000; Runtime: 21.975423
+
+Pthread: Threads: 16; Body numbers: 2000; Runtime: 25.087281

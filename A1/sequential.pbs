@@ -1,0 +1,18 @@
+#!/bin/bash
+#PBS -l nodes=1:ppn=5,mem=1g,walltime=00:02:00
+#PBS -q batch
+#PBS -m abe
+#PBS -V
+
+
+echo Name: Chen Yuan
+echo Student ID: 117010038
+echo Assignment 1, Odd-even Sort, Sequential implement.
+echo;
+timeout 60 /code/117010038/sequential 100
+echo;
+timeout 60 /code/117010038/sequential 1000 
+echo;
+timeout 60 /code/117010038/sequential 10000
+echo;
+timeout 60 /code/117010038/sequential 100000

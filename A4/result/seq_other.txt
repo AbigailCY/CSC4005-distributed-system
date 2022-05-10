@@ -1,0 +1,9 @@
+Name: Chen Yuan
+Student ID: 117010038
+Assignment 4, Heat-Distribution Simulation, Sequential implementation.
+size runtime
+
+50 0.022993
+200 0.253616
+800 3.546450
+2000 22.830088

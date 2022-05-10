@@ -1,0 +1,27 @@
+#!/bin/bash
+#PBS -l nodes=1:ppn=5,mem=1g,walltime=00:02:00
+#PBS -q batch
+#PBS -m abe
+#PBS -V
+
+n = 8;
+num = 200;
+
+echo Name: Chen Yuan
+echo Student ID: 117010038
+echo Assignment 3, N body simulation, Sequential implementation.
+g++ ./seq.cpp -o ./seq -lX11
+./seq $num
+echo;
+echo MPI implementation.
+mpic++ ./mpi.cpp -lX11 -o ./mpi
+mpirun -n $n ./mpi $num
+echo;
+echo Pthread implementation.
+g++ ./pth.cpp -o ./pth -lpthread -lX11
+./pth $n
+echo;
+echo OpenMP implementation.
+g++ -o ./openmp ./openmp.cpp -fopenmp 
+./pth $n $num
+echo;

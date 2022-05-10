@@ -1,0 +1,164 @@
+Name: Chen Yuan
+Student ID: 117010038
+Assignment 2, Mandelbrot Set Computation, Pthread dynamic implementation.
+
+Pthread dynamic: Threads: 1; Display widtd: 200; Runtime: 0.010970
+
+Pthread dynamic: Threads: 2; Display widtd: 200; Runtime: 0.004940
+
+Pthread dynamic: Threads: 3; Display widtd: 200; Runtime: 0.003573
+
+Pthread dynamic: Threads: 4; Display widtd: 200; Runtime: 0.003684
+
+Pthread dynamic: Threads: 5; Display widtd: 200; Runtime: 0.003694
+
+Pthread dynamic: Threads: 6; Display widtd: 200; Runtime: 0.003790
+
+Pthread dynamic: Threads: 7; Display widtd: 200; Runtime: 0.003763
+
+Pthread dynamic: Threads: 8; Display widtd: 200; Runtime: 0.004115
+
+Pthread dynamic: Threads: 9; Display widtd: 200; Runtime: 0.003748
+
+Pthread dynamic: Threads: 10; Display widtd: 200; Runtime: 0.003558
+
+Pthread dynamic: Threads: 11; Display widtd: 200; Runtime: 0.003471
+
+Pthread dynamic: Threads: 12; Display widtd: 200; Runtime: 0.004092
+
+Pthread dynamic: Threads: 13; Display widtd: 200; Runtime: 0.003622
+
+Pthread dynamic: Threads: 14; Display widtd: 200; Runtime: 0.003550
+
+Pthread dynamic: Threads: 15; Display widtd: 200; Runtime: 0.003432
+
+Pthread dynamic: Threads: 16; Display widtd: 200; Runtime: 0.003407
+
+Pthread dynamic: Threads: 1; Display widtd: 800; Runtime: 0.134539
+
+Pthread dynamic: Threads: 2; Display widtd: 800; Runtime: 0.076459
+
+Pthread dynamic: Threads: 3; Display widtd: 800; Runtime: 0.051848
+
+Pthread dynamic: Threads: 4; Display widtd: 800; Runtime: 0.038503
+
+Pthread dynamic: Threads: 5; Display widtd: 800; Runtime: 0.031658
+
+Pthread dynamic: Threads: 6; Display widtd: 800; Runtime: 0.028784
+
+Pthread dynamic: Threads: 7; Display widtd: 800; Runtime: 0.026387
+
+Pthread dynamic: Threads: 8; Display widtd: 800; Runtime: 0.028787
+
+Pthread dynamic: Threads: 9; Display widtd: 800; Runtime: 0.031536
+
+Pthread dynamic: Threads: 10; Display widtd: 800; Runtime: 0.027552
+
+Pthread dynamic: Threads: 11; Display widtd: 800; Runtime: 0.026547
+
+Pthread dynamic: Threads: 12; Display widtd: 800; Runtime: 0.026228
+
+Pthread dynamic: Threads: 13; Display widtd: 800; Runtime: 0.024947
+
+Pthread dynamic: Threads: 14; Display widtd: 800; Runtime: 0.027347
+
+Pthread dynamic: Threads: 15; Display widtd: 800; Runtime: 0.028552
+
+Pthread dynamic: Threads: 16; Display widtd: 800; Runtime: 0.025594
+
+Pthread dynamic: Threads: 1; Display widtd: 2000; Runtime: 0.562409
+
+Pthread dynamic: Threads: 2; Display widtd: 2000; Runtime: 0.347688
+
+Pthread dynamic: Threads: 3; Display widtd: 2000; Runtime: 0.229342
+
+Pthread dynamic: Threads: 4; Display widtd: 2000; Runtime: 0.161075
+
+Pthread dynamic: Threads: 5; Display widtd: 2000; Runtime: 0.151312
+
+Pthread dynamic: Threads: 6; Display widtd: 2000; Runtime: 0.142153
+
+Pthread dynamic: Threads: 7; Display widtd: 2000; Runtime: 0.139803
+
+Pthread dynamic: Threads: 8; Display widtd: 2000; Runtime: 0.138630
+
+Pthread dynamic: Threads: 9; Display widtd: 2000; Runtime: 0.135220
+
+Pthread dynamic: Threads: 10; Display widtd: 2000; Runtime: 0.134393
+
+Pthread dynamic: Threads: 11; Display widtd: 2000; Runtime: 0.129737
+
+Pthread dynamic: Threads: 12; Display widtd: 2000; Runtime: 0.130530
+
+Pthread dynamic: Threads: 13; Display widtd: 2000; Runtime: 0.130688
+
+Pthread dynamic: Threads: 14; Display widtd: 2000; Runtime: 0.129231
+
+Pthread dynamic: Threads: 15; Display widtd: 2000; Runtime: 0.128762
+
+Pthread dynamic: Threads: 16; Display widtd: 2000; Runtime: 0.129401
+
+Pthread dynamic: Threads: 1; Display widtd: 6400; Runtime: 5.175129
+
+Pthread dynamic: Threads: 2; Display widtd: 6400; Runtime: 2.857205
+
+Pthread dynamic: Threads: 3; Display widtd: 6400; Runtime: 2.150359
+
+Pthread dynamic: Threads: 4; Display widtd: 6400; Runtime: 1.465149
+
+Pthread dynamic: Threads: 5; Display widtd: 6400; Runtime: 1.321783
+
+Pthread dynamic: Threads: 6; Display widtd: 6400; Runtime: 1.321762
+
+Pthread dynamic: Threads: 7; Display widtd: 6400; Runtime: 1.304743
+
+Pthread dynamic: Threads: 8; Display widtd: 6400; Runtime: 1.283514
+
+Pthread dynamic: Threads: 9; Display widtd: 6400; Runtime: 1.355123
+
+Pthread dynamic: Threads: 10; Display widtd: 6400; Runtime: 1.348926
+
+Pthread dynamic: Threads: 11; Display widtd: 6400; Runtime: 1.350006
+
+Pthread dynamic: Threads: 12; Display widtd: 6400; Runtime: 1.342161
+
+Pthread dynamic: Threads: 13; Display widtd: 6400; Runtime: 1.416620
+
+Pthread dynamic: Threads: 14; Display widtd: 6400; Runtime: 1.440535
+
+Pthread dynamic: Threads: 15; Display widtd: 6400; Runtime: 1.317120
+
+Pthread dynamic: Threads: 16; Display widtd: 6400; Runtime: 1.307728
+
+Pthread dynamic: Threads: 1; Display widtd: 10000; Runtime: 13.691565
+
+Pthread dynamic: Threads: 2; Display widtd: 10000; Runtime: 7.374814
+
+Pthread dynamic: Threads: 3; Display widtd: 10000; Runtime: 4.972909
+
+Pthread dynamic: Threads: 4; Display widtd: 10000; Runtime: 3.317525
+
+Pthread dynamic: Threads: 5; Display widtd: 10000; Runtime: 3.338144
+
+Pthread dynamic: Threads: 6; Display widtd: 10000; Runtime: 3.349680
+
+Pthread dynamic: Threads: 7; Display widtd: 10000; Runtime: 3.188144
+
+Pthread dynamic: Threads: 8; Display widtd: 10000; Runtime: 3.343383
+
+Pthread dynamic: Threads: 9; Display widtd: 10000; Runtime: 3.255692
+
+Pthread dynamic: Threads: 10; Display widtd: 10000; Runtime: 3.263586
+
+Pthread dynamic: Threads: 11; Display widtd: 10000; Runtime: 3.269627
+
+Pthread dynamic: Threads: 12; Display widtd: 10000; Runtime: 3.298721
+
+Pthread dynamic: Threads: 13; Display widtd: 10000; Runtime: 3.435578
+
+Pthread dynamic: Threads: 14; Display widtd: 10000; Runtime: 3.352679
+
+Pthread dynamic: Threads: 15; Display widtd: 10000; Runtime: 3.407539
+
+Pthread dynamic: Threads: 16; Display widtd: 10000; Runtime: 3.217864
+

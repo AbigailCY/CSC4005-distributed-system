@@ -1,0 +1,23 @@
+Name: Chen Yuan
+Student ID: 117010038
+Assignment 2, Mandelbrot Set Computation, Sequential implementation.
+
+Seq: Display width 200; Runtime: 0.010568
+
+Seq: Display width 200; Runtime: 0.009554
+
+Seq: Display width 800; Runtime: 0.123223
+
+Seq: Display width 800; Runtime: 0.100488
+
+Seq: Display width 2000; Runtime: 0.562871
+
+Seq: Display width 2000; Runtime: 0.723455
+
+Seq: Display width 6400; Runtime: 5.950062
+
+Seq: Display width 6400; Runtime: 4.899474
+
+Seq: Display width 10000; Runtime: 11.869523
+
+Seq: Display width 10000; Runtime: 12.498796

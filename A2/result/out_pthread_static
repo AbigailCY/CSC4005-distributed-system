@@ -1,0 +1,164 @@
+Name: Chen Yuan
+Student ID: 117010038
+Assignment 2, Mandelbrot Set Computation, Pthread static implementation.
+
+Pthread static: Threads: 1; Display width: 200; runtime: 0.011531
+
+Pthread static: Threads: 2; Display width: 200; runtime: 0.006074
+
+Pthread static: Threads: 3; Display width: 200; runtime: 0.008082
+
+Pthread static: Threads: 4; Display width: 200; runtime: 0.005642
+
+Pthread static: Threads: 5; Display width: 200; runtime: 0.006633
+
+Pthread static: Threads: 6; Display width: 200; runtime: 0.006237
+
+Pthread static: Threads: 7; Display width: 200; runtime: 0.006669
+
+Pthread static: Threads: 8; Display width: 200; runtime: 0.006529
+
+Pthread static: Threads: 9; Display width: 200; runtime: 0.005279
+
+Pthread static: Threads: 10; Display width: 200; runtime: 0.007412
+
+Pthread static: Threads: 11; Display width: 200; runtime: 0.005350
+
+Pthread static: Threads: 12; Display width: 200; runtime: 0.004651
+
+Pthread static: Threads: 13; Display width: 200; runtime: 0.003995
+
+Pthread static: Threads: 14; Display width: 200; runtime: 0.005064
+
+Pthread static: Threads: 15; Display width: 200; runtime: 0.005452
+
+Pthread static: Threads: 16; Display width: 200; runtime: 0.005054
+
+Pthread static: Threads: 1; Display width: 800; runtime: 0.135679
+
+Pthread static: Threads: 2; Display width: 800; runtime: 0.079209
+
+Pthread static: Threads: 3; Display width: 800; runtime: 0.110075
+
+Pthread static: Threads: 4; Display width: 800; runtime: 0.076853
+
+Pthread static: Threads: 5; Display width: 800; runtime: 0.090115
+
+Pthread static: Threads: 6; Display width: 800; runtime: 0.064111
+
+Pthread static: Threads: 7; Display width: 800; runtime: 0.045378
+
+Pthread static: Threads: 8; Display width: 800; runtime: 0.073511
+
+Pthread static: Threads: 9; Display width: 800; runtime: 0.072766
+
+Pthread static: Threads: 10; Display width: 800; runtime: 0.062772
+
+Pthread static: Threads: 11; Display width: 800; runtime: 0.059280
+
+Pthread static: Threads: 12; Display width: 800; runtime: 0.050309
+
+Pthread static: Threads: 13; Display width: 800; runtime: 0.043410
+
+Pthread static: Threads: 14; Display width: 800; runtime: 0.081312
+
+Pthread static: Threads: 15; Display width: 800; runtime: 0.077201
+
+Pthread static: Threads: 16; Display width: 800; runtime: 0.062244
+
+Pthread static: Threads: 1; Display width: 2000; runtime: 0.638689
+
+Pthread static: Threads: 2; Display width: 2000; runtime: 0.344402
+
+Pthread static: Threads: 3; Display width: 2000; runtime: 0.576309
+
+Pthread static: Threads: 4; Display width: 2000; runtime: 0.366512
+
+Pthread static: Threads: 5; Display width: 2000; runtime: 0.390295
+
+Pthread static: Threads: 6; Display width: 2000; runtime: 0.305913
+
+Pthread static: Threads: 7; Display width: 2000; runtime: 0.320970
+
+Pthread static: Threads: 8; Display width: 2000; runtime: 0.263426
+
+Pthread static: Threads: 9; Display width: 2000; runtime: 0.229669
+
+Pthread static: Threads: 10; Display width: 2000; runtime: 0.235329
+
+Pthread static: Threads: 11; Display width: 2000; runtime: 0.255718
+
+Pthread static: Threads: 12; Display width: 2000; runtime: 0.209651
+
+Pthread static: Threads: 13; Display width: 2000; runtime: 0.269328
+
+Pthread static: Threads: 14; Display width: 2000; runtime: 0.228838
+
+Pthread static: Threads: 15; Display width: 2000; runtime: 0.230862
+
+Pthread static: Threads: 16; Display width: 2000; runtime: 0.281533
+
+Pthread static: Threads: 1; Display width: 6400; runtime: 5.653982
+
+Pthread static: Threads: 2; Display width: 6400; runtime: 2.682272
+
+Pthread static: Threads: 3; Display width: 6400; runtime: 4.553397
+
+Pthread static: Threads: 4; Display width: 6400; runtime: 2.383057
+
+Pthread static: Threads: 5; Display width: 6400; runtime: 3.125748
+
+Pthread static: Threads: 6; Display width: 6400; runtime: 2.507911
+
+Pthread static: Threads: 7; Display width: 6400; runtime: 2.577101
+
+Pthread static: Threads: 8; Display width: 6400; runtime: 2.168930
+
+Pthread static: Threads: 9; Display width: 6400; runtime: 2.222674
+
+Pthread static: Threads: 10; Display width: 6400; runtime: 2.027325
+
+Pthread static: Threads: 11; Display width: 6400; runtime: 2.175984
+
+Pthread static: Threads: 12; Display width: 6400; runtime: 1.866132
+
+Pthread static: Threads: 13; Display width: 6400; runtime: 1.734115
+
+Pthread static: Threads: 14; Display width: 6400; runtime: 1.619401
+
+Pthread static: Threads: 15; Display width: 6400; runtime: 1.626962
+
+Pthread static: Threads: 16; Display width: 6400; runtime: 1.675430
+
+Pthread static: Threads: 1; Display width: 10000; runtime: 15.603685
+
+Pthread static: Threads: 2; Display width: 10000; runtime: 7.451712
+
+Pthread static: Threads: 3; Display width: 10000; runtime: 10.768347
+
+Pthread static: Threads: 4; Display width: 10000; runtime: 6.263328
+
+Pthread static: Threads: 5; Display width: 10000; runtime: 8.640401
+
+Pthread static: Threads: 6; Display width: 10000; runtime: 6.342987
+
+Pthread static: Threads: 7; Display width: 10000; runtime: 7.402015
+
+Pthread static: Threads: 8; Display width: 10000; runtime: 5.381903
+
+Pthread static: Threads: 9; Display width: 10000; runtime: 5.542345
+
+Pthread static: Threads: 10; Display width: 10000; runtime: 4.684207
+
+Pthread static: Threads: 11; Display width: 10000; runtime: 4.669554
+
+Pthread static: Threads: 12; Display width: 10000; runtime: 4.053005
+
+Pthread static: Threads: 13; Display width: 10000; runtime: 4.161618
+
+Pthread static: Threads: 14; Display width: 10000; runtime: 3.885408
+
+Pthread static: Threads: 15; Display width: 10000; runtime: 4.001535
+
+Pthread static: Threads: 16; Display width: 10000; runtime: 3.931871
+

@@ -1,0 +1,131 @@
+Name: Chen Yuan
+Student ID: 117010038
+Assignment 3, N body, OpenMP implementation.
+
+OpenMP: Threads: 1; Number of bodies: 200; Runtime: 0.299046
+
+OpenMP: Threads: 2; Number of bodies: 200; Runtime: 0.367390
+
+OpenMP: Threads: 3; Number of bodies: 200; Runtime: 0.274372
+
+OpenMP: Threads: 4; Number of bodies: 200; Runtime: 0.266683
+
+OpenMP: Threads: 5; Number of bodies: 200; Runtime: 1.097125
+
+OpenMP: Threads: 6; Number of bodies: 200; Runtime: 0.302732
+
+OpenMP: Threads: 7; Number of bodies: 200; Runtime: 0.294167
+
+OpenMP: Threads: 8; Number of bodies: 200; Runtime: 0.222947
+
+OpenMP: Threads: 9; Number of bodies: 200; Runtime: 0.323429
+
+OpenMP: Threads: 10; Number of bodies: 200; Runtime: 0.306741
+
+OpenMP: Threads: 11; Number of bodies: 200; Runtime: 0.349100
+
+OpenMP: Threads: 12; Number of bodies: 200; Runtime: 0.366475
+
+OpenMP: Threads: 13; Number of bodies: 200; Runtime: 0.318597
+
+OpenMP: Threads: 14; Number of bodies: 200; Runtime: 0.343228
+
+OpenMP: Threads: 15; Number of bodies: 200; Runtime: 0.269236
+
+OpenMP: Threads: 16; Number of bodies: 200; Runtime: 0.269564
+
+OpenMP: Threads: 1; Number of bodies: 800; Runtime: 3.837548
+
+OpenMP: Threads: 2; Number of bodies: 800; Runtime: 5.274777
+
+OpenMP: Threads: 3; Number of bodies: 800; Runtime: 4.892865
+
+OpenMP: Threads: 4; Number of bodies: 800; Runtime: 4.393210
+
+OpenMP: Threads: 5; Number of bodies: 800; Runtime: 4.339298
+
+OpenMP: Threads: 6; Number of bodies: 800; Runtime: 4.449505
+
+OpenMP: Threads: 7; Number of bodies: 800; Runtime: 4.561305
+
+OpenMP: Threads: 8; Number of bodies: 800; Runtime: 4.945935
+
+OpenMP: Threads: 9; Number of bodies: 800; Runtime: 4.087136
+
+OpenMP: Threads: 10; Number of bodies: 800; Runtime: 4.905848
+
+OpenMP: Threads: 11; Number of bodies: 800; Runtime: 3.894185
+
+OpenMP: Threads: 12; Number of bodies: 800; Runtime: 4.416122
+
+OpenMP: Threads: 13; Number of bodies: 800; Runtime: 4.055061
+
+OpenMP: Threads: 14; Number of bodies: 800; Runtime: 4.417637
+
+OpenMP: Threads: 15; Number of bodies: 800; Runtime: 4.584303
+
+OpenMP: Threads: 16; Number of bodies: 800; Runtime: 5.259953
+
+OpenMP: Threads: 1; Number of bodies: 2000; Runtime: 23.409405
+
+OpenMP: Threads: 2; Number of bodies: 2000; Runtime: 25.784042
+
+OpenMP: Threads: 3; Number of bodies: 2000; Runtime: 24.450778
+
+OpenMP: Threads: 4; Number of bodies: 2000; Runtime: 27.154190
+
+OpenMP: Threads: 5; Number of bodies: 2000; Runtime: 25.732016
+
+OpenMP: Threads: 6; Number of bodies: 2000; Runtime: 25.328492
+
+OpenMP: Threads: 7; Number of bodies: 2000; Runtime: 26.823514
+
+OpenMP: Threads: 8; Number of bodies: 2000; Runtime: 31.680135
+
+OpenMP: Threads: 9; Number of bodies: 2000; Runtime: 26.332660
+
+OpenMP: Threads: 10; Number of bodies: 2000; Runtime: 26.678213
+
+OpenMP: Threads: 11; Number of bodies: 2000; Runtime: 30.682889
+
+OpenMP: Threads: 12; Number of bodies: 2000; Runtime: 23.469406
+
+OpenMP: Threads: 13; Number of bodies: 2000; Runtime: 23.455933
+
+OpenMP: Threads: 14; Number of bodies: 2000; Runtime: 29.613611
+
+OpenMP: Threads: 15; Number of bodies: 2000; Runtime: 23.436050
+
+OpenMP: Threads: 16; Number of bodies: 2000; Runtime: 24.862355
+
+OpenMP: Threads: 1; Number of bodies: 5000; Runtime: 137.785478
+
+OpenMP: Threads: 2; Number of bodies: 5000; Runtime: 172.375079
+
+OpenMP: Threads: 3; Number of bodies: 5000; Runtime: 165.402933
+
+OpenMP: Threads: 4; Number of bodies: 5000; Runtime: 144.423390
+
+OpenMP: Threads: 5; Number of bodies: 5000; Runtime: 167.843077
+
+OpenMP: Threads: 6; Number of bodies: 5000; Runtime: 151.072928
+
+OpenMP: Threads: 7; Number of bodies: 5000; Runtime: 150.090844
+
+OpenMP: Threads: 8; Number of bodies: 5000; Runtime: 140.117027
+
+OpenMP: Threads: 9; Number of bodies: 5000; Runtime: 179.850844
+
+OpenMP: Threads: 10; Number of bodies: 5000; Runtime: 183.940870
+
+OpenMP: Threads: 11; Number of bodies: 5000; Runtime: 147.637983
+
+OpenMP: Threads: 12; Number of bodies: 5000; Runtime: 173.908838
+
+OpenMP: Threads: 13; Number of bodies: 5000; Runtime: 194.222938
+
+OpenMP: Threads: 14; Number of bodies: 5000; Runtime: 198.352300
+
+OpenMP: Threads: 15; Number of bodies: 5000; Runtime: 160.159534
+
+OpenMP: Threads: 16; Number of bodies: 5000; Runtime: 163.816781

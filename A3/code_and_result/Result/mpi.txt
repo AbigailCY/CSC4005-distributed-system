@@ -1,0 +1,164 @@
+Name: Chen Yuan
+Student ID: 117010038
+Assignment 3, N Bodies, MPI implementation.
+Display size: 200,200
+
+MPI: Processes: 1; Number of bodies: 200; Runtime: 0.287534
+
+MPI: Processes: 2; Number of bodies: 200; Runtime: 0.182705
+
+MPI: Processes: 3; Number of bodies: 200; Runtime: 0.117347
+
+MPI: Processes: 4; Number of bodies: 200; Runtime: 0.099936
+
+MPI: Processes: 5; Number of bodies: 200; Runtime: 0.942433
+
+MPI: Processes: 6; Number of bodies: 200; Runtime: 1.834059
+
+MPI: Processes: 7; Number of bodies: 200; Runtime: 1.141834
+
+MPI: Processes: 8; Number of bodies: 200; Runtime: 0.542371
+
+MPI: Processes: 9; Number of bodies: 200; Runtime: 0.945131
+
+MPI: Processes: 10; Number of bodies: 200; Runtime: 0.818204
+
+MPI: Processes: 11; Number of bodies: 200; Runtime: 1.291007
+
+MPI: Processes: 12; Number of bodies: 200; Runtime: 0.689589
+
+MPI: Processes: 13; Number of bodies: 200; Runtime: 1.204544
+
+MPI: Processes: 14; Number of bodies: 200; Runtime: 1.140030
+
+MPI: Processes: 15; Number of bodies: 200; Runtime: 1.439613
+
+MPI: Processes: 16; Number of bodies: 200; Runtime: 0.920075
+
+MPI: Processes: 1; Number of bodies: 200; Runtime: 0.298109
+
+MPI: Processes: 2; Number of bodies: 200; Runtime: 0.155436
+
+MPI: Processes: 3; Number of bodies: 200; Runtime: 0.116525
+
+MPI: Processes: 4; Number of bodies: 200; Runtime: 0.092848
+
+MPI: Processes: 5; Number of bodies: 200; Runtime: 0.640136
+
+MPI: Processes: 6; Number of bodies: 200; Runtime: 2.088061
+
+MPI: Processes: 7; Number of bodies: 200; Runtime: 1.547789
+
+MPI: Processes: 8; Number of bodies: 200; Runtime: 1.244496
+
+MPI: Processes: 9; Number of bodies: 200; Runtime: 1.069475
+
+MPI: Processes: 10; Number of bodies: 200; Runtime: 0.835319
+
+MPI: Processes: 11; Number of bodies: 200; Runtime: 1.882364
+
+MPI: Processes: 12; Number of bodies: 200; Runtime: 1.068335
+
+MPI: Processes: 13; Number of bodies: 200; Runtime: 0.854894
+
+MPI: Processes: 14; Number of bodies: 200; Runtime: 1.205599
+
+MPI: Processes: 15; Number of bodies: 200; Runtime: 0.704878
+
+MPI: Processes: 16; Number of bodies: 200; Runtime: 1.806823
+
+MPI: Processes: 1; Number of bodies: 800; Runtime: 3.670863
+
+MPI: Processes: 2; Number of bodies: 800; Runtime: 1.949131
+
+MPI: Processes: 3; Number of bodies: 800; Runtime: 1.286263
+
+MPI: Processes: 4; Number of bodies: 800; Runtime: 1.230173
+
+MPI: Processes: 5; Number of bodies: 800; Runtime: 3.580890
+
+MPI: Processes: 6; Number of bodies: 800; Runtime: 4.955202
+
+MPI: Processes: 7; Number of bodies: 800; Runtime: 3.689561
+
+MPI: Processes: 8; Number of bodies: 800; Runtime: 2.785599
+
+MPI: Processes: 9; Number of bodies: 800; Runtime: 3.155814
+
+MPI: Processes: 10; Number of bodies: 800; Runtime: 3.403438
+
+MPI: Processes: 11; Number of bodies: 800; Runtime: 3.621124
+
+MPI: Processes: 12; Number of bodies: 800; Runtime: 2.794268
+
+MPI: Processes: 13; Number of bodies: 800; Runtime: 2.926535
+
+MPI: Processes: 14; Number of bodies: 800; Runtime: 5.605117
+
+MPI: Processes: 15; Number of bodies: 800; Runtime: 2.925967
+
+MPI: Processes: 16; Number of bodies: 800; Runtime: 2.532503
+
+MPI: Processes: 1; Number of bodies: 2000; Runtime: 18.722622
+
+MPI: Processes: 2; Number of bodies: 2000; Runtime: 11.198389
+
+MPI: Processes: 3; Number of bodies: 2000; Runtime: 8.505333
+
+MPI: Processes: 4; Number of bodies: 2000; Runtime: 7.099120
+
+MPI: Processes: 5; Number of bodies: 2000; Runtime: 11.366445
+
+MPI: Processes: 6; Number of bodies: 2000; Runtime: 11.371870
+
+MPI: Processes: 7; Number of bodies: 2000; Runtime: 10.975830
+
+MPI: Processes: 8; Number of bodies: 2000; Runtime: 9.304944
+
+MPI: Processes: 9; Number of bodies: 2000; Runtime: 9.181081
+
+MPI: Processes: 10; Number of bodies: 2000; Runtime: 8.308467
+
+MPI: Processes: 11; Number of bodies: 2000; Runtime: 8.323213
+
+MPI: Processes: 12; Number of bodies: 2000; Runtime: 7.294305
+
+MPI: Processes: 13; Number of bodies: 2000; Runtime: 7.278681
+
+MPI: Processes: 14; Number of bodies: 2000; Runtime: 6.614509
+
+MPI: Processes: 15; Number of bodies: 2000; Runtime: 6.482217
+
+MPI: Processes: 16; Number of bodies: 2000; Runtime: 5.891023
+
+MPI: Processes: 1; Number of bodies: 5000; Runtime: 147.040715
+
+MPI: Processes: 2; Number of bodies: 5000; Runtime: 67.494182
+
+MPI: Processes: 3; Number of bodies: 5000; Runtime: 45.564088
+
+MPI: Processes: 4; Number of bodies: 5000; Runtime: 37.829390
+
+MPI: Processes: 5; Number of bodies: 5000; Runtime: 27.522919
+
+MPI: Processes: 6; Number of bodies: 5000; Runtime: 38.866942
+
+MPI: Processes: 7; Number of bodies: 5000; Runtime: 36.327449
+
+MPI: Processes: 8; Number of bodies: 5000; Runtime: 33.445647
+
+MPI: Processes: 9; Number of bodies: 5000; Runtime: 30.128441
+
+MPI: Processes: 10; Number of bodies: 5000; Runtime: 30.022809
+
+MPI: Processes: 11; Number of bodies: 5000; Runtime: 28.950052
+
+MPI: Processes: 12; Number of bodies: 5000; Runtime: 23.532778
+
+MPI: Processes: 13; Number of bodies: 5000; Runtime: 23.255911
+
+MPI: Processes: 14; Number of bodies: 5000; Runtime: 20.818360
+
+MPI: Processes: 15; Number of bodies: 5000; Runtime: 19.847426
+
+MPI: Processes: 16; Number of bodies: 5000; Runtime: 18.148920

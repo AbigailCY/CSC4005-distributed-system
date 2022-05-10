@@ -1,0 +1,12 @@
+Name: Chen Yuan
+Student ID: 117010038
+Assignment 3, N body simulation, Sequential implementation.
+
+Sequential: Number bodies: 200; Runtime: 0.645882
+
+Sequential: Number bodies: 800; Runtime: 8.064199
+
+Sequential: Number bodies: 2000; Runtime: 44.577399
+
+Sequential: Number bodies: 5000; Runtime: 255.027984
+

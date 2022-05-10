@@ -1,0 +1,30 @@
+#!/bin/bash
+#PBS -l nodes=1:ppn=5,mem=1g,walltime=00:02:00
+#PBS -q batch
+#PBS -m abe
+#PBS -V
+
+n = 4;
+
+echo Name: Chen Yuan
+echo Student ID: 117010038
+echo Assignment 2, Mandelbrot Set Computation, Sequential implementation.
+g++ ./seq_mandelbrot.cpp -o ./seq -lX11
+timeout 60 ./seq 200 200
+echo;
+echo MPI static implementation.
+mpic++ ./mpi_mandelbrot_static.cpp -lX11 -o ./mpi_s
+timeout 60 mpirun -n $n ./mpi_s 200 200
+echo;
+echo MPI dynamic implementation.
+mpic++ ./mpi_mandelbrot_dynamic.cpp -lX11 -o ./mpi_d
+timeout 60 mpirun -n $n ./mpi_d 200 200 1
+timeout 60 mpirun -n $n ./mpi_d 200 200 10
+echo;
+echo Pthread static implementation.
+g++ ./pth_mandelbrot_static.cpp -o ./pth_s -lpthread -lX11
+timeout 60 ./pth_s $n 200 200
+echo;
+echo Pthread dynamic implementation.
+g++ ./pth_mandelbrot_dynamic.cpp -o ./pth_d -lpthread -lX11
+timeout 60 ./pth_d $n 200 200
